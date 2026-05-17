@@ -1,11 +1,11 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! I'm Nada Jboor
+  Hey! I'm Nada 
 </h1>
 
 <p>
 Welcome to my GitHub profile 🌸 <br/>
-I'm <b>Nada Jboor</b>, a passionate <b>Backend Developer</b> specialized in <b>PHP & Laravel</b>, focused on building scalable web applications, RESTful APIs, and clean backend architectures.
+I'm <b> a Backend Developer</b> specialized in <b>PHP & Laravel</b>, focused on building scalable web applications, RESTful APIs, and clean backend architectures.
 </p>
 
 ---
@@ -93,12 +93,6 @@ I'm <b>Nada Jboor</b>, a passionate <b>Backend Developer</b> specialized in <b>P
 
 ---
 
-## 🎓 Education
-
-🎓 Bachelor's Degree in Informatics Engineering  
-University of Damascus — 2025
-
----
 
 ## 📈 GitHub Stats
 
